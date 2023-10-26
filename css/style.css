@@ -1,0 +1,26 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+}
+
+.our-contact{
+    color: #2E2F42;
+}
+
+.our-contact:hover{
+    color: #4D5AE5;
+}
+
+.our-contact:focus{
+    color: #4D5AE5;
+}
+
+.order-button{
+    background-color: #4D5AE5;
+
+}
+
+.order-button:hover{
+    background-color: #404BBF;
+}
