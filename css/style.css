@@ -5,6 +5,18 @@ body{
     background-color: #fff;
 }
 
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.117;
+    letter-spacing: 0.03em; 
+    color: #4D5AE5;
+}
+
+.logo-back-side{
+    color: #2E2F42;
+}
 .our-contact{
     color: #2E2F42;
 }
