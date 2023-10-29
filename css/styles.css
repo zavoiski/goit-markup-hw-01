@@ -12,6 +12,7 @@ body{
     line-height: 1.117;
     letter-spacing: 0.03em; 
     color: #4D5AE5;
+    text-transform: uppercase;
 }
 
 .gen1{
@@ -26,26 +27,42 @@ body{
     color: #fff;
 }
 .logo-back-side{
-    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.117;
+    letter-spacing: 0.03em; 
+    font-family: "Raleway", sans-serif;
+    color: #2e2f42;
+    text-transform: uppercase;
 }
 
 .studio-btn{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.002em;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .studio-btn:hover{
     color: #404BBF;
 }
+
+.studio-btn:focus{
+    color: #404bbf;
+}
 .our-contact{
-    color: #2E2F42;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .our-contact:hover{
-    color: #4D5AE5;
+    color: #404bbf;
+}
+
+.our-contact:focus{
+    color: #404bbf;
 }
 
 
