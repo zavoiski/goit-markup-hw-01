@@ -37,6 +37,31 @@ body{
     color: #4D5AE5;
 }
 
+.section3{
+    background-color: #F4F4FD;
+}
+
+.general-text{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.002em;
+    color: #2E2F42;
+}
+
+.sect3-n{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.sect3-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .our-contact:focus{
     color: #4D5AE5;
 }
