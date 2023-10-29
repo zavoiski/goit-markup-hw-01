@@ -89,6 +89,9 @@ body{
     letter-spacing: 0.04em;
     color: #ffffff;
 }
+.order-button:focus{
+    background-color: #404BBF;
+}
 
 .order-button:hover{
     background-color: #404BBF;
