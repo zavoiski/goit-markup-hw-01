@@ -171,3 +171,13 @@ body{
     text-transform: uppercase;
     color: #4D5AE5;
 }
+
+.logo-black{
+    color: #F4F4FD;
+}
+
+.footer-p{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
