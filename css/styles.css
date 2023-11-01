@@ -71,8 +71,8 @@ body{
 
 .sect-n{
     font-weight: 500;
-    font-size: 36px;
-    line-height: 1.11;
+    font-size: 20px;
+    line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: uppercase;
@@ -85,7 +85,7 @@ body{
     letter-spacing: 0.02em;
 }
 .our-contact:focus{
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .order-button{
