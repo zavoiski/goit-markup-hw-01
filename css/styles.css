@@ -41,13 +41,10 @@ body{
     color: #2e2f42;
 }
 
-.studio-btn:hover{
+.studio-btn:hover:focus{
     color: #404bbf;
 }
 
-.studio-btn:focus{
-    color: #404bbf;
-}
 .our-contact{
     line-height: 1.5;
     letter-spacing: 0.02em;
