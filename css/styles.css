@@ -15,11 +15,11 @@ body{
     text-transform: uppercase;
 }
 
-.gen1{
+.gen{
     background-color: #2E2F42;
 }
 
-.section1-h{
+.section-h{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -135,7 +135,7 @@ body{
     color: #2e2f42;
 }
 
-.person1{
+.person{
     background-color: #ffffff;
 }
 
