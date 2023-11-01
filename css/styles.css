@@ -41,7 +41,11 @@ body{
     color: #2e2f42;
 }
 
-.studio-btn:hover:focus{
+.studio-btn:hover{
+    color: #404bbf;
+}
+
+.studio-btn:focus{
     color: #404bbf;
 }
 
